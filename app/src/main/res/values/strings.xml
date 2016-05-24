@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AccountKitIntegration</string>
+
+    <string name="facebook_app_id">1775091082721980</string>
+    <string name="client_token">cea2ea89313f264fab2c4d6ce40ed5a8</string>
+    <string name="ak_login_protocol_scheme">ak1775091082721980</string>
+
+<!--    <string name="facebook_app_id">982994185088147</string>
+    <string name="client_token">9740e5dee2f3e356da24c728766e9a78</string>
+    <string name="ak_login_protocol_scheme">ak982994185088147</string>-->
+
+
+    <string name="log_in_email_button">Log In via Email</string>
+    <string name="log_in_phone_button">Log In via Phone</string>
+    <string name="log_out_button">Log Out</string>
+
+
+</resources>
